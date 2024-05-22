@@ -4,8 +4,7 @@ Welcome to the Login with Gmail and Slack Notification App, a powerful tool desi
 
 ## Demo Video
 
-https://github.com/kshitijv09/vidgen.ai/assets/98077136/07312f00-2934-49ee-a51b-66eedfaf82d8
-
+https://github.com/kshitijv09/cobalt/assets/98077136/4ce425f3-ff75-4fbe-a066-e8b06b1f7f95
 
 ## Features
 
@@ -45,5 +44,8 @@ https://github.com/kshitijv09/vidgen.ai/assets/98077136/07312f00-2934-49ee-a51b-
 
 6.  Access the server at http://localhost:5000. 
 
+## References
 
+- **Slack API**: For setting up Slack notifications, refer to the [Slack API documentation](https://api.slack.com/).
+- **Google Console**: For setting up Google OAuth credentials, refer to the [Google Developers Console](https://console.developers.google.com/).
 
