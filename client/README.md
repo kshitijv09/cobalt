@@ -14,6 +14,6 @@
    ```bash
      npm start
 
-5.  Access the server at http://localhost:3000. 
+5.  Access the client at http://localhost:3000. 
 
 
