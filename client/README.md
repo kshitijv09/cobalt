@@ -16,7 +16,4 @@
 
 5.  Access the server at http://localhost:3000. 
 
-## References
 
-- **Slack API**: For setting up Slack notifications, refer to the [Slack API documentation](https://api.slack.com/).
-- **Google Console**: For setting up Google OAuth credentials, refer to the [Google Developers Console](https://console.developers.google.com/).
